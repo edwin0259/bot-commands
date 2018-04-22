@@ -31,14 +31,12 @@ The vision is that a couple of these commands will be selected every month by th
 
 ## Contributing
 
-1. Install the `git` command line tool
-2. Have a github account and clone the repository `git clone https://github.com/edwin0259/bot-commands.git`
-3. Make the changes to the commands file
-4. Checkout to your own repo branch Ex: `git checkout -b FEATURE/YOURNAME` (add your name after FEATURE/)
-5. Run `git add commands.json`
-6. Run `git commit -m "Message that you want me to see, this can be anything, make sure to enclose in double quotes"`
-6. Run `git push origin FEATURE/YOURNAME`
-7. Inside github, submit a pull request from your branch to the master branch and you are done!
+1. Click the `commands.json` file
+2. Click pencil icon next to the trashcan (You should be logged into a your github account)
+3. Edit the file with new commands/changes
+4. Click `Purpose file change` at bottom of page
+5. Click `Create pull request` on next page
+6. Wait for me to look over and possibly add the changes :)
 
 ## Questions
 
